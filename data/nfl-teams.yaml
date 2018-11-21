@@ -1,0 +1,97 @@
+teams:
+- name: Buffalo Bills
+  division: East
+  conference: AFC
+- name: Miami Dolphins
+  division: East
+  conference: AFC
+- name: New England Patriots
+  division: East
+  conference: AFC
+- name: New York Jets
+  division: East
+  conference: AFC
+- name: Dallas Cowboys
+  division: East
+  conference: NFC
+- name: New York Giants
+  division: East
+  conference: NFC
+- name: Philadelphia Eagles
+  division: East
+  conference: AFC
+- name: Washington Redskins
+  division: East
+  conference: AFC
+- name: Baltimore Ravens
+  division: North
+  conference: AFC
+- name: Cincinnati Bengals
+  division: North
+  conference: AFC
+- name: Cleaveland Browns
+  division: North
+  conference: AFC
+- name: Pittsburgh Steelers
+  division: North
+  conference: AFC
+- name: Chicago Bears
+  division: North
+  conference: NFC
+- name: Detroit Lions
+  division: North
+  conference: NFC
+- name: Greenbay Packers
+  division: North
+  conference: NFC
+- name: Minnesota Vikings
+  division: North
+  conference: NFC
+- name: Houston Texans
+  division: South
+  conference: AFC
+- name: Indianapolis Colts
+  division: South
+  conference: AFC
+- name: Jacksonville Jaguars
+  division: South
+  conference: AFC
+- name: Tennessee Titans
+  division: South
+  conference: AFC
+- name: Atlanta Falcons
+  division: South
+  conference: NFC
+- name: Carolina Panthers
+  division: South
+  conference: NFC
+- name: New Orleans Saints
+  division: South
+  conference: NFC
+- name: Tampa Bay Buccaneers
+  division: South
+  conference: NFC
+- name: Denver Broncos
+  division: West
+  conference: AFC
+- name: Kansas City Chiefs
+  division: West
+  conference: AFC
+- name: Los Angeles Chargers
+  division: West
+  conference: AFC
+- name: Oakland Raiders
+  division: West
+  conference: AFC
+- name: Arizona Cardinals
+  division: West
+  conference: NFC
+- name: Los Angeles Rams
+  division: West
+  conference: NFC
+- name: San Fransisco 49ers
+  division: West
+  conference: NFC
+- name: Seattle Seahawks
+  division: West
+  conference: NFC
